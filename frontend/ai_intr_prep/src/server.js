@@ -1,0 +1,1 @@
+export const backend_url="https://interv-ai-backend-k3e5lgjwn-varish-tyagis-projects.vercel.app/api"
